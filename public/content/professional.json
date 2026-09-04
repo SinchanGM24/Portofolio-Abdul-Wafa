@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T00:00:00.000Z",
+  "updatedAt": "2026-09-04T13:22:15.327Z",
   "hero": {
     "eyebrow": "Front-End Developer · System Analyst",
     "title": "Abdul Wafa'",
@@ -9,65 +9,329 @@
     "image": "uploads/professional/hero-abdul-wafa.jpg",
     "alt": "Abdul Wafa' menikmati pemandangan perbukitan dan laut saat matahari terbenam",
     "imageCaption": "Merancang alur. Membangun antarmuka. Menyelesaikan masalah.",
-    "highlights": ["React", "Next.js", "TypeScript"]
+    "highlights": [
+      "React",
+      "Next.js",
+      "TypeScript"
+    ]
   },
   "projects": [
     {
-      "id": "project-lalotourism", "title": "LALOTOURISM", "type": "Project Akhir Mata Kuliah", "role": "Web Developer", "period": "2023", "icon": "Database", "link": "https://sinchangm24.github.io/LaloTourism/", "published": true, "sortOrder": 1,
+      "id": "project-lalotourism",
+      "title": "LALOTOURISM",
+      "type": "Project Akhir Mata Kuliah",
+      "role": "Web Developer",
+      "period": "2023",
+      "icon": "Database",
+      "link": "https://sinchangm24.github.io/LaloTourism/",
+      "published": true,
+      "sortOrder": 1,
       "summary": "Sistem informasi pariwisata berbasis web untuk membantu memperkenalkan destinasi wisata di Labuhan Lombok kepada masyarakat dan wisatawan.",
       "context": "Project akademik berkelompok ini diawali dengan wawancara dan observasi untuk memahami kebutuhan penyebaran informasi wisata. Hasilnya diterjemahkan menjadi struktur informasi, fitur, dan website dinamis.",
       "problem": "Website wisata perlu menampilkan informasi destinasi dan berita secara lebih rapi, serta memiliki cara sederhana untuk mengelola konten.",
-      "contributions": ["Mengerjakan tampilan halaman website menggunakan HTML dan CSS.", "Melakukan wawancara dan observasi untuk mengidentifikasi kebutuhan informasi wisata.", "Mengerjakan fitur CRUD untuk berita dan tempat wisata.", "Membantu mengubah halaman HTML statis menjadi PHP dinamis.", "Menghubungkan website dengan database MySQL menggunakan XAMPP.", "Membuat alur dasar admin untuk mengelola konten website."],
-      "outputs": ["Halaman website dapat mengambil konten dari database.", "Admin memiliki alur dasar untuk mengelola data berita dan destinasi.", "Project memiliki live preview publik sebagai bukti tampilan awal website."],
+      "contributions": [
+        "Mengerjakan tampilan halaman website menggunakan HTML dan CSS.",
+        "Melakukan wawancara dan observasi untuk mengidentifikasi kebutuhan informasi wisata.",
+        "Mengerjakan fitur CRUD untuk berita dan tempat wisata.",
+        "Membantu mengubah halaman HTML statis menjadi PHP dinamis.",
+        "Menghubungkan website dengan database MySQL menggunakan XAMPP.",
+        "Membuat alur dasar admin untuk mengelola konten website."
+      ],
+      "outputs": [
+        "Halaman website dapat mengambil konten dari database.",
+        "Admin memiliki alur dasar untuk mengelola data berita dan destinasi.",
+        "Project memiliki live preview publik sebagai bukti tampilan awal website."
+      ],
       "result": "Project ini menghasilkan website wisata sederhana dengan alur frontend, backend, database, dan admin dasar.",
       "learning": "Dari project ini saya belajar dasar fullstack web: membuat tampilan, menghubungkan database, membuat CRUD, dan memahami bagaimana konten bisa dikelola dari sisi admin.",
-      "stack": ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "Figma", "CRUD"]
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP",
+        "MySQL",
+        "Figma",
+        "CRUD"
+      ]
     },
     {
-      "id": "project-akusehat", "title": "AkuSehat - Tiket Antrian Online", "type": "Healthcare Queue System", "role": "Frontend Developer Intern", "period": "Feb 2025 - Jun 2025", "icon": "MonitorSmartphone", "published": true, "sortOrder": 2,
+      "id": "project-akusehat",
+      "title": "AkuSehat - Tiket Antrian Online",
+      "type": "Healthcare Queue System",
+      "role": "Frontend Developer Intern",
+      "period": "Feb 2025 - Jun 2025",
+      "icon": "MonitorSmartphone",
+      "published": true,
+      "sortOrder": 2,
       "summary": "Fitur antrian online untuk membantu pasien mendaftar dan memantau status antrian klinik secara digital.",
       "context": "Project ini saya kerjakan saat internship sebagai bagian dari pengembangan fitur layanan klinik. Fokus saya berada pada sisi frontend dan bagaimana pengguna mengikuti proses pendaftaran antrian.",
       "problem": "Pasien membutuhkan alur pendaftaran yang jelas dan informasi status antrian yang mudah dipahami.",
-      "contributions": ["Mengerjakan halaman pendaftaran antrian klinik.", "Membuat tampilan pemantauan status antrian pasien.", "Membantu menangani kendala autentikasi dan sinkronisasi data frontend-backend.", "Berkolaborasi dalam proses Scrum untuk evaluasi fitur."],
-      "outputs": ["Tampilan pendaftaran antrian untuk pasien.", "Tampilan status antrian yang membantu pasien mengikuti proses layanan.", "Perbaikan kecil pada alur autentikasi dan komunikasi data."],
-      "result": "Alur antrian menjadi lebih terstruktur dan status layanan lebih mudah dipantau.", "learning": "Saya belajar bekerja dalam lingkungan tim, membaca kebutuhan fitur, dan menyesuaikan UI dengan data backend.", "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Git", "Scrum"]
+      "contributions": [
+        "Mengerjakan halaman pendaftaran antrian klinik.",
+        "Membuat tampilan pemantauan status antrian pasien.",
+        "Membantu menangani kendala autentikasi dan sinkronisasi data frontend-backend.",
+        "Berkolaborasi dalam proses Scrum untuk evaluasi fitur."
+      ],
+      "outputs": [
+        "Tampilan pendaftaran antrian untuk pasien.",
+        "Tampilan status antrian yang membantu pasien mengikuti proses layanan.",
+        "Perbaikan kecil pada alur autentikasi dan komunikasi data."
+      ],
+      "result": "Alur antrian menjadi lebih terstruktur dan status layanan lebih mudah dipantau.",
+      "learning": "Saya belajar bekerja dalam lingkungan tim, membaca kebutuhan fitur, dan menyesuaikan UI dengan data backend.",
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Git",
+        "Scrum"
+      ]
     },
     {
-      "id": "project-distribusi", "title": "Sistem Manajemen Distribusi", "type": "Business Operation System", "role": "Frontend Developer & System Analyst", "period": "Nov 2025 - Sekarang", "icon": "Layers3", "published": true, "sortOrder": 3,
+      "id": "project-distribusi",
+      "title": "Sistem Manajemen Distribusi",
+      "type": "Business Operation System",
+      "role": "Frontend Developer & System Analyst",
+      "period": "Nov 2025 - Sekarang",
+      "icon": "Layers3",
+      "published": true,
+      "sortOrder": 3,
       "summary": "Sistem distributor berbasis web untuk membantu proses bisnis CV. Pridata Jaya melalui alur dan UI yang terstruktur.",
       "context": "Project ini masih berjalan dan berfokus pada sistem operasional distributor. Peran saya berkaitan dengan memahami proses bisnis, menyusun alur fitur, dan mengerjakan bagian frontend.",
       "problem": "Proses bisnis distributor membutuhkan sistem yang sesuai kebutuhan pengguna dan mudah dioperasikan.",
-      "contributions": ["Menganalisis kebutuhan pengguna dan proses bisnis distribusi bersama stakeholder.", "Menerjemahkan kebutuhan menjadi fitur, flow sistem, dan rancangan antarmuka.", "Menerapkan pendekatan User-Centered Design pada perancangan fitur.", "Mengembangkan halaman dan komponen frontend bersama tim backend."],
-      "outputs": ["Rancangan alur fitur berdasarkan kebutuhan pengguna.", "Struktur halaman dan tampilan frontend untuk proses bisnis utama.", "Dokumentasi kebutuhan yang membantu pengembangan tim lebih terarah."],
-      "result": "Pengembangan sistem menjadi lebih terarah karena kebutuhan, flow, dan interface disusun sejak awal.", "learning": "Saya belajar bahwa frontend tidak hanya soal tampilan, tetapi juga memahami proses pengguna sebelum membuat halaman.", "stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "PostgreSQL", "Git", "Figma", "UCD", "Scrum"]
+      "contributions": [
+        "Menganalisis kebutuhan pengguna dan proses bisnis distribusi bersama stakeholder.",
+        "Menerjemahkan kebutuhan menjadi fitur, flow sistem, dan rancangan antarmuka.",
+        "Menerapkan pendekatan User-Centered Design pada perancangan fitur.",
+        "Mengembangkan halaman dan komponen frontend bersama tim backend."
+      ],
+      "outputs": [
+        "Rancangan alur fitur berdasarkan kebutuhan pengguna.",
+        "Struktur halaman dan tampilan frontend untuk proses bisnis utama.",
+        "Dokumentasi kebutuhan yang membantu pengembangan tim lebih terarah."
+      ],
+      "result": "Pengembangan sistem menjadi lebih terarah karena kebutuhan, flow, dan interface disusun sejak awal.",
+      "learning": "Saya belajar bahwa frontend tidak hanya soal tampilan, tetapi juga memahami proses pengguna sebelum membuat halaman.",
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "PostgreSQL",
+        "Git",
+        "Figma",
+        "UCD",
+        "Scrum"
+      ]
     }
   ],
   "journey": [
-    { "id": "edu-unram", "period": "Lulus", "title": "Lulusan S1 Teknik Informatika", "place": "Universitas Mataram", "icon": "GraduationCap", "description": "Pembelajaran di bidang pemrograman, basis data, rekayasa perangkat lunak, analisis sistem, perancangan antarmuka, dan pengembangan sistem informasi berbasis web.", "published": true, "sortOrder": 1 },
-    { "id": "edu-brida", "period": "Sep 2022 - Feb 2023", "title": "Web Development Trainee", "place": "BRIDA School Academy, BRIDA NTB", "icon": "GraduationCap", "description": "Membangun fondasi web development melalui HTML, CSS, JavaScript, PHP, basis data, serta latihan pengembangan aplikasi web.", "published": true, "sortOrder": 2 },
-    { "id": "work-akusehat", "period": "Feb 2025 - Jun 2025", "title": "Frontend Developer Intern", "place": "Biddokkes Polda NTB · AkuSehat", "icon": "BriefcaseBusiness", "description": "Mengembangkan fitur antrian online, berkolaborasi dengan backend, serta menangani alur autentikasi dan sinkronisasi data dalam proses kerja berbasis Scrum.", "published": true, "sortOrder": 3 },
-    { "id": "work-pridata", "period": "Nov 2025 - Sekarang", "title": "Front-End Developer & System Analyst", "place": "CV. Pridata Jaya · Sistem Manajemen Distribusi Barang", "icon": "BriefcaseBusiness", "description": "Menganalisis kebutuhan dan proses bisnis, merancang flow serta antarmuka, lalu mengimplementasikan frontend sistem dengan pendekatan UCD dan Scrum.", "published": true, "sortOrder": 4 }
+    {
+      "id": "edu-unram",
+      "period": "Lulus",
+      "title": "Lulusan S1 Teknik Informatika",
+      "place": "Universitas Mataram",
+      "icon": "GraduationCap",
+      "description": "Pembelajaran di bidang pemrograman, basis data, rekayasa perangkat lunak, analisis sistem, perancangan antarmuka, dan pengembangan sistem informasi berbasis web.",
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "edu-brida",
+      "period": "Sep 2022 - Feb 2023",
+      "title": "Web Development Trainee",
+      "place": "BRIDA School Academy, BRIDA NTB",
+      "icon": "GraduationCap",
+      "description": "Membangun fondasi web development melalui HTML, CSS, JavaScript, PHP, basis data, serta latihan pengembangan aplikasi web.",
+      "published": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "work-akusehat",
+      "period": "Feb 2025 - Jun 2025",
+      "title": "Frontend Developer Intern",
+      "place": "Biddokkes Polda NTB · AkuSehat",
+      "icon": "BriefcaseBusiness",
+      "description": "Mengembangkan fitur antrian online, berkolaborasi dengan backend, serta menangani alur autentikasi dan sinkronisasi data dalam proses kerja berbasis Scrum.",
+      "published": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "work-pridata",
+      "period": "Nov 2025 - Sekarang",
+      "title": "Front-End Developer & System Analyst",
+      "place": "CV. Pridata Jaya · Sistem Manajemen Distribusi Barang",
+      "icon": "BriefcaseBusiness",
+      "description": "Menganalisis kebutuhan dan proses bisnis, merancang flow serta antarmuka, lalu mengimplementasikan frontend sistem dengan pendekatan UCD dan Scrum.",
+      "published": true,
+      "sortOrder": 4
+    }
   ],
   "activities": [
-    { "id": "activity-paper", "title": "Paper LaloTourismAgency", "type": "Call for Paper · Universitas Mataram", "period": "2023", "icon": "BookOpenCheck", "link": "https://jurnal.tintaemas.id/index.php/ETS/article/view/485", "description": "Karya ilmiah berbasis project LaloTourism yang membahas website sebagai media informasi destinasi wisata di Labuhan Lombok.", "details": ["Membantu menyusun latar belakang, metode penelitian, use case diagram, dan abstrak.", "Memberikan arahan, melakukan review, dan mengoreksi isi dokumen agar sesuai dengan sistem.", "Mendokumentasikan project teknologi dalam format akademik yang terstruktur."], "published": true, "sortOrder": 1 },
-    { "id": "activity-data", "title": "Memasuki Dunia Data: Langkah Awal Menjadi Data Analyst", "type": "Kepanitiaan / Leadership", "period": "2024", "icon": "BarChart3", "description": "Kegiatan pelatihan dasar analisis data di lingkungan HMIF. Sebagai ketua panitia, saya mengoordinasikan persiapan hingga pelaksanaan acara.", "details": ["Mengkoordinasikan seluruh divisi, pembagian tugas, dan tahapan persiapan.", "Menjadi penghubung antara panitia, pemateri, dan pihak yang terlibat.", "Mengambil keputusan dan membantu menyelesaikan kendala selama persiapan serta pelaksanaan."], "published": true, "sortOrder": 2 },
-    { "id": "activity-hmif", "title": "Himpunan Mahasiswa Informatika", "type": "Organisasi / Creative Operation", "period": "2023 - 2024", "icon": "PenTool", "description": "Aktif dalam kegiatan HMIF sebagai anggota dan Koordinator Divisi PDD pada 2023-2024, serta anggota Divisi Pemberdayaan Anggota pada 2024.", "details": ["Mengelola publikasi, dokumentasi, dan kebutuhan visual untuk berbagai kegiatan.", "Mengoordinasikan anggota Divisi PDD pada kegiatan PKMTI 2024.", "Berkolaborasi merancang dan menjalankan program pengembangan anggota Informatika."], "published": true, "sortOrder": 3 }
+    {
+      "id": "activity-paper",
+      "title": "Paper LaloTourismAgency",
+      "type": "Call for Paper · Universitas Mataram",
+      "period": "2023",
+      "icon": "BookOpenCheck",
+      "link": "https://jurnal.tintaemas.id/index.php/ETS/article/view/485",
+      "description": "Karya ilmiah berbasis project LaloTourism yang membahas website sebagai media informasi destinasi wisata di Labuhan Lombok.",
+      "details": [
+        "Membantu menyusun latar belakang, metode penelitian, use case diagram, dan abstrak.",
+        "Memberikan arahan, melakukan review, dan mengoreksi isi dokumen agar sesuai dengan sistem.",
+        "Mendokumentasikan project teknologi dalam format akademik yang terstruktur."
+      ],
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "activity-data",
+      "title": "Memasuki Dunia Data: Langkah Awal Menjadi Data Analyst",
+      "type": "Kepanitiaan / Leadership",
+      "period": "2024",
+      "icon": "BarChart3",
+      "description": "Kegiatan pelatihan dasar analisis data di lingkungan HMIF. Sebagai ketua panitia, saya mengoordinasikan persiapan hingga pelaksanaan acara.",
+      "details": [
+        "Mengkoordinasikan seluruh divisi, pembagian tugas, dan tahapan persiapan.",
+        "Menjadi penghubung antara panitia, pemateri, dan pihak yang terlibat.",
+        "Mengambil keputusan dan membantu menyelesaikan kendala selama persiapan serta pelaksanaan."
+      ],
+      "published": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "activity-hmif",
+      "title": "Himpunan Mahasiswa Informatika",
+      "type": "Organisasi / Creative Operation",
+      "period": "2023 - 2024",
+      "icon": "PenTool",
+      "description": "Aktif dalam kegiatan HMIF sebagai anggota dan Koordinator Divisi PDD pada 2023-2024, serta anggota Divisi Pemberdayaan Anggota pada 2024.",
+      "details": [
+        "Mengelola publikasi, dokumentasi, dan kebutuhan visual untuk berbagai kegiatan.",
+        "Mengoordinasikan anggota Divisi PDD pada kegiatan PKMTI 2024.",
+        "Berkolaborasi merancang dan menjalankan program pengembangan anggota Informatika."
+      ],
+      "published": true,
+      "sortOrder": 3
+    }
   ],
   "process": [
-    { "id": "process-understand", "title": "Pahami masalah", "description": "Menggali kebutuhan pengguna, proses yang berjalan, dan tujuan project.", "published": true, "sortOrder": 1 },
-    { "id": "process-flow", "title": "Susun alur", "description": "Menerjemahkan kebutuhan menjadi flow, fitur, dan prioritas halaman.", "published": true, "sortOrder": 2 },
-    { "id": "process-ui", "title": "Bangun UI", "description": "Membuat tampilan yang rapi, responsif, dan mudah dipahami.", "published": true, "sortOrder": 3 },
-    { "id": "process-integrate", "title": "Integrasikan", "description": "Menghubungkan UI dengan data, autentikasi, atau CRUD sesuai kebutuhan project.", "published": true, "sortOrder": 4 }
+    {
+      "id": "process-understand",
+      "title": "Pahami masalah",
+      "description": "Menggali kebutuhan pengguna, proses yang berjalan, dan tujuan project.",
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "process-flow",
+      "title": "Susun alur",
+      "description": "Menerjemahkan kebutuhan menjadi flow, fitur, dan prioritas halaman.",
+      "published": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "process-ui",
+      "title": "Bangun UI",
+      "description": "Membuat tampilan yang rapi, responsif, dan mudah dipahami.",
+      "published": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "process-integrate",
+      "title": "Integrasikan",
+      "description": "Menghubungkan UI dengan data, autentikasi, atau CRUD sesuai kebutuhan project.",
+      "published": true,
+      "sortOrder": 4
+    }
   ],
   "skills": [
-    { "id": "skill-frontend", "label": "Frontend", "items": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "HTML", "CSS", "Responsive Web Design"], "published": true, "sortOrder": 1 },
-    { "id": "skill-system", "label": "System", "items": ["PHP", "MySQL", "PostgreSQL", "CRUD", "Authentication", "Frontend-Backend Integration", "Git", "GitHub", "Visual Studio Code"], "published": true, "sortOrder": 2 },
-    { "id": "skill-product", "label": "Product", "items": ["UI/UX", "User-Centered Design", "Requirement Analysis", "System Analysis", "System Flow Design", "Scrum", "Figma", "Canva"], "published": true, "sortOrder": 3 },
-    { "id": "skill-collaboration", "label": "Kolaborasi", "items": ["Team Collaboration", "Stakeholder Communication", "Leadership", "Team Coordination", "Problem Solving", "Software Documentation", "Research Writing", "Event Management"], "published": true, "sortOrder": 4 }
+    {
+      "id": "skill-frontend",
+      "label": "Frontend",
+      "items": [
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "HTML",
+        "CSS",
+        "Responsive Web Design"
+      ],
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "skill-system",
+      "label": "System",
+      "items": [
+        "PHP",
+        "MySQL",
+        "PostgreSQL",
+        "CRUD",
+        "Authentication",
+        "Frontend-Backend Integration",
+        "Git",
+        "GitHub",
+        "Visual Studio Code"
+      ],
+      "published": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "skill-product",
+      "label": "Product",
+      "items": [
+        "UI/UX",
+        "User-Centered Design",
+        "Requirement Analysis",
+        "System Analysis",
+        "System Flow Design",
+        "Scrum",
+        "Figma",
+        "Canva"
+      ],
+      "published": true,
+      "sortOrder": 3
+    },
+    {
+      "id": "skill-collaboration",
+      "label": "Kolaborasi",
+      "items": [
+        "Team Collaboration",
+        "Stakeholder Communication",
+        "Leadership",
+        "Team Coordination",
+        "Problem Solving",
+        "Software Documentation",
+        "Research Writing",
+        "Event Management"
+      ],
+      "published": true,
+      "sortOrder": 4
+    }
   ],
   "languages": [
-    { "id": "lang-id", "name": "Bahasa Indonesia", "level": "Native / Penutur asli", "published": true, "sortOrder": 1 },
-    { "id": "lang-en", "name": "Bahasa Inggris", "level": "Intermediate / Menengah", "published": true, "sortOrder": 2 }
+    {
+      "id": "lang-id",
+      "name": "Bahasa Indonesia",
+      "level": "Native / Penutur asli",
+      "published": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "lang-en",
+      "name": "Bahasa Inggris",
+      "level": "Intermediate / Menengah",
+      "published": true,
+      "sortOrder": 2
+    }
   ],
-  "contact": { "eyebrow": "Kontak", "title": "Tertarik melihat detail project saya?", "description": "Terbuka untuk berdiskusi tentang peluang Front-End Development, kolaborasi project, dan pengembangan sistem berbasis web." }
+  "contact": {
+    "eyebrow": "Kontak",
+    "title": "Tertarik melihat detail project saya?",
+    "description": "Terbuka untuk berdiskusi tentang peluang Front-End Development, kolaborasi project, dan pengembangan sistem berbasis web."
+  }
 }
