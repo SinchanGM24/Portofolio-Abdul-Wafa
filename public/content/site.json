@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-04T00:00:00.000Z",
+  "identity": { "name": "Abdul Wafa'", "professionalTitle": "Frontend Developer", "adventureTitle": "Explorer Lombok", "avatar": "uploads/professional/avatar.png" },
+  "contact": { "email": "f1d022104@student.unram.ac.id", "phone": "082339901185", "whatsapp": "6282339901185", "location": "Lombok Barat, Nusa Tenggara Barat, Indonesia" },
+  "links": { "github": "https://github.com/SinchanGM24", "resume": "Abdul-Wafa-Resume.pdf", "paper": "https://jurnal.tintaemas.id/index.php/ETS/article/view/485" },
+  "switchLabels": { "professional": "Professional", "adventure": "Adventure" },
+  "footer": { "professional": "Project, proses, skill, dan kontak.", "adventure": "Cerita perjalanan dan dokumentasi menjelajahi Lombok." }
+}

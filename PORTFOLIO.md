@@ -1,5 +1,12 @@
 # Portofolio Abdul Wafa'
 
+Website publik memiliki dua sisi yang dapat dipilih melalui switch pada header:
+
+- `/#/professional` untuk profil, project, pengalaman, dan skill profesional.
+- `/#/adventure` untuk dokumentasi perjalanan dan layanan pendamping eksplorasi Lombok.
+
+Konten dikelola sebagai data terstruktur di `public/content`. Setiap push ke `main` divalidasi, dibangun, lalu diterbitkan otomatis melalui GitHub Pages.
+
 ## Profil Singkat
 
 Nama: Abdul Wafa'  

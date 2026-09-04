@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-04T00:00:00.000Z",
+  "hero": {
+    "eyebrow": "Explore Lombok",
+    "title": "Perjalanan, cerita, dan sudut Lombok yang saya temui.",
+    "description": "Saya Abdul Wafa', penikmat perjalanan yang mendokumentasikan alam dan pengalaman menjelajahi Lombok.",
+    "image": "uploads/adventure/lombok-2026-07-19.jpg",
+    "alt": "Pemandangan perbukitan dan laut Lombok saat matahari terbenam"
+  },
+  "profile": {
+    "eyebrow": "Cerita Saya",
+    "title": "Menjelajah untuk melihat Lombok lebih dekat",
+    "description": "Adventure adalah sisi lain dari perjalanan saya. Ruang ini saya gunakan untuk menyimpan dokumentasi, cerita, dan pengalaman menjelajahi Lombok secara bertahap—apa adanya, dari perjalanan yang benar-benar saya lakukan."
+  },
+  "categories": [
+    { "id": "cat-bukit", "label": "Bukit", "icon": "Mountain", "published": true, "sortOrder": 1 },
+    { "id": "cat-pantai", "label": "Pantai", "icon": "Waves", "published": true, "sortOrder": 2 },
+    { "id": "cat-camping", "label": "Camping", "icon": "TentTree", "published": true, "sortOrder": 3 },
+    { "id": "cat-roadtrip", "label": "Perjalanan Darat", "icon": "Route", "published": true, "sortOrder": 4 }
+  ],
+  "journeys": [
+    {
+      "id": "journey-lombok-20260719",
+      "title": "Senja dalam Perjalanan Lombok",
+      "slug": "senja-perjalanan-lombok-2026",
+      "location": "Lombok",
+      "date": "2026-07-19",
+      "description": "Satu dokumentasi perjalanan menikmati bentang perbukitan, laut, dan cahaya senja di Lombok.",
+      "coverImage": "uploads/adventure/lombok-2026-07-19.jpg",
+      "gallery": ["uploads/adventure/lombok-2026-07-19.jpg"],
+      "alt": "Pemandangan perbukitan dan laut Lombok pada 19 Juli 2026",
+      "category": "cat-bukit",
+      "tags": ["Lombok", "Senja", "Perjalanan"],
+      "featured": true,
+      "published": true,
+      "sortOrder": 1
+    }
+  ],
+  "gallery": [
+    { "id": "gallery-lombok-20260719", "image": "uploads/adventure/lombok-2026-07-19.jpg", "thumbnail": "uploads/adventure/lombok-2026-07-19.jpg", "alt": "Pemandangan perbukitan dan laut Lombok saat matahari terbenam", "journeyId": "journey-lombok-20260719", "published": true, "sortOrder": 1 }
+  ],
+  "guide": {
+    "enabled": true,
+    "eyebrow": "Teman Perjalanan",
+    "title": "Jelajahi Lombok Bersama Saya",
+    "description": "Ingin berdiskusi tentang perjalanan di Lombok atau membutuhkan teman eksplorasi? Ceritakan lokasi, jadwal, jumlah peserta, dan kebutuhan perjalanan Anda melalui WhatsApp.",
+    "buttonLabel": "Diskusikan Perjalanan",
+    "message": "Halo Abdul Wafa', saya ingin berdiskusi tentang perjalanan di Lombok. Lokasi tujuan: ... Jadwal: ... Jumlah peserta: ... Kebutuhan perjalanan: ..."
+  }
+}
