@@ -38,7 +38,7 @@
     }
   ],
   "gallery": [
-    { "id": "gallery-lombok-20260719", "image": "uploads/adventure/lombok-2026-07-19.jpg", "thumbnail": "uploads/adventure/lombok-2026-07-19.jpg", "alt": "Pemandangan perbukitan dan laut Lombok saat matahari terbenam", "journeyId": "journey-lombok-20260719", "published": true, "sortOrder": 1 }
+    { "id": "gallery-lombok-20260719", "image": "uploads/adventure/lombok-2026-07-19.jpg", "thumbnail": "uploads/adventure/lombok-2026-07-19.jpg", "alt": "Pemandangan perbukitan dan laut Lombok saat matahari terbenam", "journeyId": "journey-lombok-20260719", "category": "cat-bukit", "published": true, "sortOrder": 1 }
   ],
   "guide": {
     "enabled": true,
