@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T14:34:44.110Z",
+  "updatedAt": "2026-09-04T15:06:56.913Z",
   "hero": {
     "eyebrow": "Explore Lombok",
     "title": "Perjalanan, cerita, dan sudut Lombok yang saya temui.",
@@ -48,6 +48,13 @@
       "icon": "Compass",
       "published": true,
       "sortOrder": 5
+    },
+    {
+      "id": "88fa18dc-e297-44d7-ab7a-ac12b908ed30",
+      "published": true,
+      "sortOrder": 6,
+      "label": "Random",
+      "icon": "Compass"
     }
   ],
   "journeys": [
@@ -85,14 +92,40 @@
       "sortOrder": 1
     },
     {
-      "category": "df5f808f-02ed-4c3d-89ce-87a19c8ddde2",
+      "category": "88fa18dc-e297-44d7-ab7a-ac12b908ed30",
       "journeyId": "journey-lombok-20260719",
+      "thumbnailPosition": "",
       "id": "cbd25875-4028-4b7a-b276-ebe0edaf2962",
       "published": true,
       "sortOrder": 1,
       "image": "uploads/adventure/d9b0be62-f72c-4dc5-8fde-d99b23b7b75d.webp",
       "thumbnail": "uploads/thumbnails/d9b0be62-f72c-4dc5-8fde-d99b23b7b75d.webp",
-      "alt": "Abdul Wafa'"
+      "alt": "Abdul Wafa'",
+      "thumbnailCrop": {
+        "x": 64,
+        "y": 87,
+        "zoom": 1
+      }
+    },
+    {
+      "id": "8e9edfac-6cfc-4541-b357-b487086845e5",
+      "published": true,
+      "sortOrder": 3,
+      "image": "uploads/adventure/3909207b-951a-4e00-8f13-4b50766ea184.webp",
+      "thumbnail": "uploads/thumbnails/3909207b-951a-4e00-8f13-4b50766ea184.webp",
+      "alt": "Deskripsi foto",
+      "journeyId": "journey-lombok-20260719",
+      "category": "df5f808f-02ed-4c3d-89ce-87a19c8ddde2"
+    },
+    {
+      "id": "f3bee820-5bb9-4d8d-bf0d-8d02cfae4ec9",
+      "published": true,
+      "sortOrder": 5,
+      "image": "uploads/adventure/2508aaa6-d355-4343-bfec-93057055b107.webp",
+      "thumbnail": "uploads/thumbnails/2508aaa6-d355-4343-bfec-93057055b107.webp",
+      "alt": "Deskripsi foto",
+      "journeyId": "journey-lombok-20260719",
+      "category": "88fa18dc-e297-44d7-ab7a-ac12b908ed30"
     }
   ],
   "guide": {
